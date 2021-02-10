@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="title_activity_create_message">CreateMessageActivity</string>
+    <string name="send">Send Message</string>
+    <string name="chooser">Send message via...</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_receive_message">ReceiveMessageActivity</string>
+</resources>
